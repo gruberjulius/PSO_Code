@@ -1,0 +1,18 @@
+3
+../../../DatenSafe/conventionSafe/times_papso.dat
+../../../DatenSafe/conventionSafe/times_papso.dat
+../../../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+c
+check1
+function0 classical
+Threads
+Time in Seconds
+check3
+0
+1
+PAPSO
+y
+PAPSO
+y
+PSPSO
+y

@@ -1,0 +1,19 @@
+3
+../../../DatenSafe/conventionSafe/times_papso.dat
+../../../DatenSafe/conventionSafe/times_pso.dat
+../../../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+f
+check1
+function1 fitness
+Threads
+Time in Seconds
+check3
+1
+2
+PAPSO
+n
+PSO
+y
+PSPSO
+n
+#do not forget to manually change the deviation kind from harmonic to standard

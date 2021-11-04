@@ -1,0 +1,19 @@
+2
+../../../DatenSafe/old_conventionSafe/times_pso.dat
+../../../DatenSafe/old_conventionSafe/times_papso_send.dat
+d
+job 1
+function2 deviation job 1
+Threads
+Time [s]
+Time Plot with Deviation Rastrigin Function
+0
+35
+0
+10
+2
+3
+PSO
+y
+PAPSO
+n

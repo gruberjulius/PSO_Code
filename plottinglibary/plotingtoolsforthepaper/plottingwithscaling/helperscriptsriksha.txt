@@ -1,0 +1,19 @@
+2
+times_pspso_k_AR_smaller.dat
+times_alternative2.dat
+d
+Riksha Plot
+Riksha_plot_function_2
+Number of Threads
+Time [s]
+
+0
+1
+0
+35
+0
+0.3
+PSPSO Smaller 
+n
+Riksha
+n

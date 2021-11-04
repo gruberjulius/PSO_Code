@@ -1,0 +1,14 @@
+7
+KrisData/Compileflags_psps/build_march_o1/results/times_pspso.dat
+KrisData/Compileflags_psps/build_march_o2/results/times_pspso.dat
+KrisData/Compileflags_psps/build_march_o3/results/times_pspso.dat
+KrisData/Compileflags_psps/build_x_o1/results/times_pspso.dat
+KrisData/Compileflags_psps/build_x_o2/results/times_pspso.dat
+KrisData/Compileflags_psps/build_x_o3/results/times_pspso.dat
+KrisData/Compileflags_psps/build_x_x/results/times_pspso.dat
+Compiler Flag Testing PSPSO
+3
+4
+Thread 
+Time
+KrisData/PlotsforCompilerFlagswithloglog

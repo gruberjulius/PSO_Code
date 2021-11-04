@@ -1,0 +1,3 @@
+Write a function to plot for two seperate files
+
+write a read in function for several files, probably autocall the functions, so we do not get the mess in the main

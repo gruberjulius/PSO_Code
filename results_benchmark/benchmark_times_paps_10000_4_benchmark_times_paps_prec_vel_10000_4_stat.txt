@@ -1,0 +1,4 @@
+Mean s: 35.179048, mean m: 16.924038 | prec_v s: 33.506645, prec_v m: 16.431095 
+Median s: 33.289199999999994, median m: 16.324550000000002 | prec_v s: 33.57965, prec_v m: 16.09465 
+Min s: 18.7382, min m: 12.6868 | prec_v s: 18.402, prec_v m: 12.9118 
+Max s: 63.1521, max m: 25.5629 | prec_v s: 52.8722, prec_v m: 24.1824 

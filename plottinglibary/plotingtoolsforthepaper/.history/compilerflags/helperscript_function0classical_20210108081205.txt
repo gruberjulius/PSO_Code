@@ -1,0 +1,24 @@
+8
+../../../DatenSafe/conventionSafe/compiler_flags/build_march_o1
+../../../DatenSafe/conventionSafe/compiler_flags/build_march_o2
+../../../DatenSafe/conventionSafe/compiler_flags/build_march_o3
+../../../DatenSafe/conventionSafe/compiler_flags/build_march_x
+../../../DatenSafe/conventionSafe/compiler_flags/build_x_o1
+../../../DatenSafe/conventionSafe/compiler_flags/build_x_o2
+../../../DatenSafe/conventionSafe/compiler_flags/build_x_o3
+../../../DatenSafe/conventionSafe/compiler_flags/build_x_x
+d
+check1
+function0 classical
+Threads
+Time in Seconds
+check3
+march O1 
+march O2 
+march O3
+march
+O1 
+O2
+O3 
+Nothing 
+

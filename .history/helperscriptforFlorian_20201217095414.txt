@@ -1,0 +1,14 @@
+7
+FloriansDaten/resultate_optimizations/O1/times_papso_send.dat
+FloriansDaten/resultate_optimizations/O2/times_papso_send.dat
+FloriansDaten/resultate_optimizations/O3/times_papso_send.dat
+FloriansDaten/resultate_optimizations/O1march/times_papso_send.dat
+FloriansDaten/resultate_optimizations/O2march/times_papso_send.dat
+FloriansDaten/resultate_optimizations/O1/times_pso.dat
+FloriansDaten/resultate_optimizations/O3march/times_papso_send.dat
+Compiler Optimization on Papso Send Function
+3
+4
+Thread
+Time 
+Relevant Plot

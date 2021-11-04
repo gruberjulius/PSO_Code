@@ -1,0 +1,14 @@
+1
+../../../DatenSafe/old_conventionSafe/times_pspso_k_AllReduce.dat
+d
+check1
+function2 deviation
+Threads
+Time [s]
+Time Plot with Deviation Rastrigin Function
+0
+6
+PAPSO
+n
+PSPSO
+n

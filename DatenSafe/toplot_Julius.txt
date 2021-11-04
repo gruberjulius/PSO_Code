@@ -1,0 +1,15 @@
+Bitte nenne alle plots, und speicher die alle in eine neue directroy
+
+Time plot:
+    For each function:
+    - alle psps zusammen
+    - alle paps zusammen
+
+Best fitness plot:
+    For each function:
+    - alle psps zusammen
+    - alle paps zusammen
+
+Wenn wir schon beste psps und paps implementation wissen dann:
+    - vergleich paps vs psps vs pso Time
+    - vergleich dieselbe fitness

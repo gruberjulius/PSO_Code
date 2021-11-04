@@ -1,0 +1,1 @@
+mpicxx       CMakeFiles/ps_functions.dir/examples/ps_functions.cpp.o  -o ps_functions -rdynamic 

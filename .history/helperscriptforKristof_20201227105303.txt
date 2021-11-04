@@ -1,0 +1,10 @@
+3
+Moe/results/dirty_data_christmas/times_pspso_kristof.dat
+Moe/results/dirty_data_christmas/times_pso.dat
+Moe/results/dirty_data_christmas/times_papso_send.dat
+PSPSO vs. PSO vs. PAPSO
+3
+4
+Thread 
+Time
+KrisData/PlotsforGeneral

@@ -1,0 +1,27 @@
+6
+../DatenSafe/conventionSafe/times_papso_pre.dat
+../DatenSafe/conventionSafe/times_papso_pre_nonblc.dat
+../DatenSafe/conventionSafe/times_papso_send.dat
+../DatenSafe/conventionSafe/times_papso_send_65.dat
+../DatenSafe/conventionSafe/times_papso_send_part_unroll(no_2_3_threads).dat
+../DatenSafe/conventionSafe/times_papso_send_smaller_packets.dat
+f
+PAPSO different version 31_12 fitness function 4
+../PlotsSafe/PAPSO_31_12_fitnessfunction4
+Threads
+Time 
+PAPSO different version 31_12 fitness function 4
+4
+5
+PAPSO pre
+n
+PAPSO pre nonblc
+n
+PAPSO Send
+n
+PAPSO Send 65
+n
+PAPSO Send Part Unroll 
+n
+PAPSO Smaller Packages
+n

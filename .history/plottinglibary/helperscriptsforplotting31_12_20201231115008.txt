@@ -1,0 +1,14 @@
+10
+../DatenSafe/conventionSafe/times_papso_pre.dat
+../DatenSafe/conventionSafe/times_papso_pre_nonblc.dat
+../DatenSafe/conventionSafe/times_papso_send.dat
+../DatenSafe/conventionSafe/times_papso_send_65.dat
+../DatenSafe/conventionSafe/times_papso_send_part_unroll(no_2_3_threads).dat
+../DatenSafe/conventionSafe/times_papso_send_smaller_packets.dat
+../DatenSafe/conventionSafe/times_pso.dat
+../DatenSafe/conventionSafe/times_pspso.dat
+../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+../DatenSafe/conventionSafe/times_pspso_k_AllReduce.dat
+../DatenSafe/conventionSafe/times_pspso_k_Reduce_Bcast.dat
+../DatenSafe/conventionSafe/times_pspso_k_test.dat
+../DatenSafe/conventionSafe/times_pspso_kristof.dat

@@ -1,0 +1,15 @@
+3
+../DatenSafe/conventionSafe/times_pspso_k_AllReduce.dat
+../DatenSafe/conventionSafe/times_papso_send.dat
+../DatenSafe/conventionSafe/times_pspso.dat
+f
+PSPSO different version 31_12   fitness function 2 deviation
+
+Threads
+Fitness
+PSPSO different version 31_12 fitness  function 2 deviation
+0
+5
+PSPSO k All Reduce
+PAPSO Send
+PSPSO

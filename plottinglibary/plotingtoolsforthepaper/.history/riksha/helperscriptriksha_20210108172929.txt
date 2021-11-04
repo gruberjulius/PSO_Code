@@ -1,0 +1,21 @@
+4
+../../../DatenSafe/conventionSafe/times_papso.dat
+../../../DatenSafe/conventionSafe/times_pso.dat
+../../../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+../../../workingPSOrepo/results/times_alternative.dat
+c
+check1
+function0 classical
+Threads
+Time in Seconds
+check3
+0
+1
+PAPSO
+n
+PSO
+y
+PSPSO
+n
+Riksha
+n

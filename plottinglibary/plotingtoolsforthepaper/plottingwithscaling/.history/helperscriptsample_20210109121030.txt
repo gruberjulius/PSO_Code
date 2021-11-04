@@ -1,0 +1,42 @@
+This is a helperscript for the scaling so that you do not need Julius anymore.
+
+Sample
+"""
+        3
+        ../../../DatenSafe/old_conventionSafe/times_pso.dat
+        ../../../DatenSafe/old_conventionSafe/times_papso_send.dat
+        ../../../DatenSafe/old_conventionSafe/times_pspso_k_AR_smaller.dat
+        d
+        check1
+        function2 deviation
+        Threads
+        Time [s]
+        Time Plot with Deviation Rastrigin Function
+        0
+        35
+        0
+        10
+        2
+        3
+        PSO
+        y
+        PAPSO
+        n
+        PSPSO
+        n
+"""
+In line 5 you input the number of data sets
+In line 6 to 8 you input the data sets. This size may vary!
+Then you input the type of plot, c for classical, d for deviation & f for fitness
+Then you input the name of the plot
+Then you enter the way the file is saves
+Line 13 is the x-Label
+Line 14 is the y-Label
+Line 15 is the the lower bound for the x axis plotted
+Line 16 is the upper bound for the x axis plotted
+Line 17is the lower bound for the y axis 
+Line 18 is the upper bound for the y axis plotted
+Line 19 is the starting index
+Line 20 is the ending index of the functions
+the following lines are just the name of the data set & in the following line if they are constant or not
+

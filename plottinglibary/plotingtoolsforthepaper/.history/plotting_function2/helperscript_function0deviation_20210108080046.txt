@@ -1,0 +1,15 @@
+3
+../../../DatenSafe/conventionSafe/times_papso.dat
+../../../DatenSafe/conventionSafe/times_pso.dat
+../../../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+d
+check1
+function2 deviation
+Threads
+Time in Seconds
+check3
+2
+3
+PAPSO
+PSO
+PSPSO

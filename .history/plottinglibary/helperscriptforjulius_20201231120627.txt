@@ -1,0 +1,27 @@
+6
+../DatenSafe/conventionSafe/times_pspso.dat
+../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+../DatenSafe/conventionSafe/times_pspso_k_AllReduce.dat
+../DatenSafe/conventionSafe/times_pspso_k_Reduce_Bcast.dat
+../DatenSafe/conventionSafe/times_pspso_k_test.dat
+../DatenSafe/conventionSafe/times_pspso_kristof.dat
+f
+PSPSO different version 31_12 fitness function 1
+../PlotsSafe/PSPSO/PSPSO_31_12_fitnessfunction1
+Threads
+Time 
+PSPSO different version 31_12 fitness function 1
+1
+2
+PAPSO pre
+n
+PAPSO pre nonblc
+n
+PAPSO Send
+n
+PAPSO Send 65
+n
+PAPSO Send Part Unroll 
+n
+PAPSO Smaller Packages
+n

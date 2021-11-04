@@ -1,0 +1,21 @@
+4
+../../../DatenSafe/conventionSafe/times_pso.dat
+../../../DatenSafe/conventionSafe/times_papso_pre.dat
+../../../DatenSafe/conventionSafe/times_papso_send_nnblc.dat
+../../../DatenSafe/conventionSafe/times_papso_send_part_unroll.dat
+c
+check1
+function2 classical
+Threads
+Time in Seconds
+check3
+2
+3
+PSO
+y
+PAPSO Pre
+n
+PAPSO Send Non Blocking
+n
+PAPSO Send Part Unroll 
+n

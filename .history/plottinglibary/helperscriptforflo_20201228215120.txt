@@ -1,0 +1,31 @@
+8
+../FloriansDaten/pspso_compilerflags_2312/results_O1/times_pspso_kristof_10000.dat
+../FloriansDaten/pspso_compilerflags_2312/results_O2/times_pspso_kristof_10000.dat
+../FloriansDaten/pspso_compilerflags_2312/results_O3/times_pspso_kristof_10000.dat
+../FloriansDaten/pspso_compilerflags_2312/results_O1arch/times_pspso_kristof_10000.dat
+../FloriansDaten/pspso_compilerflags_2312/results_O2arch/times_pspso_kristof_10000.dat
+../FloriansDaten/pspso_compilerflags_2312/results_O3arch/times_pspso_kristof_10000.dat
+../FloriansDaten/pspso_compilerflags_2312/results_arch/times_pspso_kristof_10000.dat
+../FloriansDaten/pspso_compilerflags_2312/results_nothing/times_pspso_kristof_10000.dat
+d
+PSPSO for different compiler flags
+Threads
+Time 
+0
+1
+PSPSO O1
+n
+PSPSO O2
+n
+PSPSO O3
+n
+PSPSO O1 arch
+n
+PSPSO O2 arch
+n
+PSPSO O3 arch
+n
+PSPSO arch
+n
+PSPSO nothing
+n

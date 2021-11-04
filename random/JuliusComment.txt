@@ -1,0 +1,28 @@
+worked in first try, 
+
+Everything fine
+
+make file worked directly, need to analyse the PSO function
+
+the source file lies in the following path
+
+PSOrepos/Moe/include/moe/base/algorithms
+
+
+in this file both the PSO as well as Nuemrical Algorithm are inlcuded
+
+the particle swarm function called in the the example, comes from the path included above for algorithms in line 35
+
+
+um die funktion zu skalieren benötigen wir folgende variante
+im folder Moe/examples/PSO/psfunctions 
+können wir in der main function in der moether set Fitness Funciton unsere geünschte funktioen deklarieren
+
+Der Output ist wie folgt aufgebaut:
+eine spezifikation von einer funktion
+eine fitness " bsi jetzt nicht verstanden"
+die gebrauchte zeit
+Die funktion kann derzeit nur 2 d probleme lösen 
+also von R^2 auf R
+
+

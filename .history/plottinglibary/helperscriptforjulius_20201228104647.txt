@@ -1,0 +1,18 @@
+3
+../Moe/results/dirty_data_christmas/times_pspso_kristof.dat
+../Moe/results/dirty_data_christmas/times_pso.dat
+../Moe/results/dirty_data_christmas/times_papso_send.dat
+f
+example
+FitnessValueDirtyChristmas Function 0
+Threads
+Best Fitness Value
+checkout
+0
+1
+PSPSO 
+n
+PSO 
+y
+PAPSO
+n

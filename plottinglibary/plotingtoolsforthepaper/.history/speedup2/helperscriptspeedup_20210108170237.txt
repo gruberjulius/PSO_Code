@@ -1,0 +1,21 @@
+4
+../../../DatenSafe/conventionSafe/times_pso.dat
+../../../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+../../../DatenSafe/conventionSafe/times_pspso_k_AllReduce.dat
+../../../DatenSafe/conventionSafe/times_pspso_kristof.dat
+c
+check1
+Function 2 Relative Speedup PSPSO
+Threads
+Time 
+check3
+2
+3
+PSO
+y
+PAPSO Pre
+n
+PAPSO Send Non Blocking
+n
+PAPSO Send Part Unroll 
+n

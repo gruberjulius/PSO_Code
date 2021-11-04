@@ -1,0 +1,27 @@
+6
+../DatenSafe/conventionSafe/times_pspso.dat
+../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+../DatenSafe/conventionSafe/times_pspso_k_AllReduce.dat
+../DatenSafe/conventionSafe/times_pspso_k_Reduce_Bcast.dat
+../DatenSafe/conventionSafe/times_pspso_k_test.dat
+../DatenSafe/conventionSafe/times_pspso_kristof.dat
+f
+PSPSO different version 31_12 fitness function 2
+../PlotsSafe/PSPSO/PSPSO_31_12_fitnessfunction2
+Threads
+Time 
+PSPSO different version 31_12 fitness function 2
+2
+3
+PSPSO
+n
+PSPSO k AR smaller
+n
+PSPSO k All Reduce
+n
+PSPSO k Reduce Bcast
+n
+PSPSO k test
+n
+PSPSO Kristof
+n

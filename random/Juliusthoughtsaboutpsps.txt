@@ -1,0 +1,1 @@
+the beginning should be the same for both MPI_Init(so the part of the code in 139 - 144 could be copy pasted to psps_function beginning of the main 

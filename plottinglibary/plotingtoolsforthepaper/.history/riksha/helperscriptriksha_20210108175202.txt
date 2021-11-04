@@ -1,0 +1,21 @@
+4
+../../../DatenSafe/conventionSafe/times_papso.dat
+../../../DatenSafe/old_conventionSafe/times_pso.dat
+../../../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+../../../workingPSOrepo/results/times_alternative.dat
+f
+riksha  old data function fitness 2
+riksha  old data function fitness 2
+Threads
+Time in Seconds
+riksha  old data function fitness 2
+2
+3
+PAPSO
+n
+PSO
+y
+PSPSO
+n
+Riksha
+n

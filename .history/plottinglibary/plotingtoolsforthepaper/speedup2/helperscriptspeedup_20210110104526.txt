@@ -1,0 +1,21 @@
+4
+../../../DatenSafe/old_conventionSafe/times_pso.dat
+../../../DatenSafe/old_conventionSafe/times_pspso_k_AR_smaller.dat
+../../../DatenSafe/old_conventionSafe/times_pspso_k_AllReduce.dat
+../../../DatenSafe/old_conventionSafe/times_pspso_kristof.dat
+c
+check1
+Function 2 Relative Speedup PSPSO
+Threads
+Speedup 
+Speedup for different PSPSO Versions 
+2
+3
+PSO
+y
+PSPSO All Reduce Smaller
+n
+PSPSO All Reduce
+n
+PAPSO naive
+n

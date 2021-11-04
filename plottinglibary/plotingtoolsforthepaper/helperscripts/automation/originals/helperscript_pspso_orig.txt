@@ -1,0 +1,24 @@
+5
+../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+../DatenSafe/conventionSafe/times_pspso_k_AllReduce.dat
+../DatenSafe/conventionSafe/times_pspso_k_Reduce_Bcast.dat
+../DatenSafe/conventionSafe/times_pspso_k_test.dat
+../DatenSafe/conventionSafe/times_pspso_kristof.dat
+c
+PSPSO comparing all versions (function 0)
+../PlotsSafe/PSPSO/PSPSO_version_comp_0
+Threads
+Time
+PSPSO comparing all versions (function 0)
+0
+1
+PSPSO AR smaller
+n
+PSPSO All Reduce (AR)
+n
+PSPSO Reduce 
+n
+PSPSO test
+n
+PSPSO kristof
+n

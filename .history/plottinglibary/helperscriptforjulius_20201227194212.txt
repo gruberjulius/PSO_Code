@@ -1,0 +1,13 @@
+2
+../KrisData/NewPSPS23_12_Kristof/times_pspso_kristof.dat
+../KrisData/NewPSPS23_12_Kristof/times_papso_send.dat
+d
+example
+heredeviations
+Threads
+Time
+checkout
+0
+1
+PSPSO 
+PAPSO 

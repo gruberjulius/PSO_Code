@@ -1,0 +1,3 @@
+Moe/FloriansDaten/times_papso.dat 
+50
+checkifworking

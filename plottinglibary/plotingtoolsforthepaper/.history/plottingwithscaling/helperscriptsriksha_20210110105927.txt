@@ -1,0 +1,19 @@
+2
+../../../DatenSafe/conventionSafe/times_pspso_k_AR_smaller.dat
+../../../workingPSOrepo/results/times_alternative.dat
+d
+Riksha Plot
+riksha  plot
+Threads
+Time in Seconds
+riksha  plot
+2
+3
+0
+35
+0
+0.3
+PSPSO
+n
+Riksha
+n

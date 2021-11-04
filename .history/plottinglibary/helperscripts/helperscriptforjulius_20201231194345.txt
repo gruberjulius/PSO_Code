@@ -1,0 +1,21 @@
+4
+../DatenSafe/conventionSafe/times_pspso_k_AllReduce.dat
+../DatenSafe/conventionSafe/times_papso_send.dat
+../DatenSafe/conventionSafe/times_pso.dat
+../DatenSafe/conventionSafe/times_pspso.dat
+c
+PSPSO different version 31_12  function 2
+../PlotsSafe/PSPSOexactfunction/best3checkfunction2
+Threads
+Time
+PSPSO different version 31_12  function 2
+2
+3
+PSPSO k All Reduce
+n
+PAPSO Send
+n
+PSO
+y
+PSPSO
+n

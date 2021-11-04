@@ -1,0 +1,24 @@
+5
+../../../DatenSafe/old_conventionSafe/times_pso.dat
+../../../DatenSafe/old_conventionSafe/times_papso_pre.dat
+../../../DatenSafe/old_conventionSafe/times_papso_send.dat
+../../../DatenSafe/conventionSafe/times_papso_send_nnblc.dat
+../../../DatenSafe/conventionSafe/times_papso_send_part_unroll.dat
+c
+check1
+function2 speedup PAPSO
+Threads
+Speedup 
+Title of the plot
+2
+3
+PSO
+y
+PAPSO Precompute
+n
+PAPSO Send
+n
+PAPSO Send Non Blocking
+n
+PAPSO Send Particle Unroll
+n

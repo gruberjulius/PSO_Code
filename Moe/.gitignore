@@ -1,0 +1,7 @@
+*.elf
+.vscode/
+build/
+#*.sh
+cmake_install*
+CMakeCache.txt
+

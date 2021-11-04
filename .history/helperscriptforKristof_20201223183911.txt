@@ -1,0 +1,14 @@
+7
+KrisData/NewPSPS23_12_Kristof/times_papso_send.dat
+KrisData/NewPSPS23_12_Kristof/times_pso.dat
+KrisData/NewPSPS23_12_Kristof/times_pspso_kristof.dat
+KrisData/NewPSPS23_12_Kristof/times_pspso_kristof.dat
+KrisData/NewPSPS23_12_Kristof/times_pspso_kristof.dat
+KrisData/NewPSPS23_12_Kristof/times_pso.dat
+KrisData/NewPSPS23_12_Kristof/times_pspso_kristof.dat
+PSPSO vs. PSO vs. PAPSO
+3
+4
+Thread 
+Time
+KrisData/PlotsforFitnessFunctionIndex3

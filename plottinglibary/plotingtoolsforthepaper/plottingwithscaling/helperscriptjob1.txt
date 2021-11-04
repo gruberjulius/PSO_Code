@@ -1,0 +1,22 @@
+3
+../../../DatenSafe/old_conventionSafe/times_pso.dat
+../../../DatenSafe/old_conventionSafe/times_papso_send.dat
+../../../DatenSafe/old_conventionSafe/times_pspso_k_AR_smaller.dat
+d
+job 1
+function2 deviation job 1
+Number of Threads
+Time [s]
+
+2
+3
+0
+35
+0
+1.75
+PSO
+y
+PAPSO Send
+n
+PSPSO Smaller
+n

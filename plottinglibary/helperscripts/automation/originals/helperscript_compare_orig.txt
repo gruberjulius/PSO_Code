@@ -1,0 +1,21 @@
+4
+../DatenSafe/conventionSafe/times_pspso_k_AllReduce.dat
+../DatenSafe/conventionSafe/times_papso_send.dat
+../DatenSafe/conventionSafe/times_pso.dat
+../DatenSafe/conventionSafe/times_pspso.dat
+c
+PSO vs parallel implementations (function 0)
+../PlotsSafe/Compare/compare_0
+Threads
+Time
+PSO vs parallel implementations (function 0)
+0
+1
+PSPSO k All Reduce
+n
+PAPSO Send
+n
+PSO
+y
+PSPSO
+n
