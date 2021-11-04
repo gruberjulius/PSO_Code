@@ -1,3 +1,6 @@
-Folder containing the codes necessary to our project.
+Folder for a Project I created together with 3 colleagues for the Design of Parallel and High-Performance Computing class at ETH Zurich. 
 
-I think everything is necessary# PSO_Code
+Our final report is also contained in the repository and can be found in the Report.pdf.
+
+We would definitly reshape and restructure lots of parts of the code, still it is definitly a project worth showing.
+ 
