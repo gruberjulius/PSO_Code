@@ -1,6 +1,3 @@
-Folder for a Project I created together with 3 colleagues for the Design of Parallel and High-Performance Computing class at ETH Zurich. 
+This was a school project I conducted with 3 Classmates about a Optimization Algorithm for function minimization called Particle Swarm Optimization. 
 
-Our final report is also contained in the repository and can be found in the Report.pdf.
-
-We would definitly reshape and restructure lots of parts of the code, still it is definitly a project worth showing.
- 
+We could find some interesting results in there and it was a great experience to learn about high-performance computing. 
