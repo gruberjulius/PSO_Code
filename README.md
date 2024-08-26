@@ -1,6 +1,4 @@
-Certainly! Here's an extended summary that includes a section on the technical tools used in the implementation and experimentation.
 
----
 
 The report titled "A Novel Parallel Implementation of Particle Swarm Optimization" explores the implementation and optimization of Particle Swarm Optimization (PSO) in a parallel computing environment. The work primarily focuses on two parallel approaches: Parallel Synchronous PSO (PSPSO) and Parallel Asynchronous PSO (PAPSO), evaluating their performance on the Euler VI supercomputing cluster at ETH Zurich.
 
