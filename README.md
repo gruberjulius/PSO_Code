@@ -39,4 +39,4 @@ The report titled "A Novel Parallel Implementation of Particle Swarm Optimizatio
    - PSPSO is more effective than PAPSO for parallelizing PSO, particularly when dealing with common benchmark functions. The study suggests that PSPSO's efficient workload distribution makes it the preferable method, especially for high-dimensional or computationally expensive problems.
    - The report also highlights a potential speed-up limit in parallel PSO implementations, with further improvements likely requiring more complex or higher-dimensional problems.
 
-This report provides a comprehensive analysis of parallelizing PSO, demonstrating that while both synchronous and asynchronous methods have their merits, PSPSO is generally superior for the tested scenarios. The use of advanced technical tools and a high-performance computing environment significantly contributed to the successful implementation and evaluation of the proposed parallel algorithms.
+
